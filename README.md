@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-<div align=center><h1>기관 내 Github 사용 및 Private Project 등으로 인해 해당 계정은 Repo 정보가 많이 축약되었습니다. 상세한 개발 내용에 대해 알고싶으신 분은 따로 포트폴리오를 요구 및 참고하여 주세요.🙇‍♀️</h1></div>
+<div align=center><h2>기관 내 Github 사용 및 Private Project 등으로 인해 해당 계정은 Repo 정보가 많이 축약되었습니다. 상세한 개발 내용에 대해 알고싶으신 분은 따로 포트폴리오를 요구 및 참고하여 주세요.🙇‍♀️</h2></div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjjjGi&count_bg=%2356B47E&title_bg=%233D96B0&icon=highly.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
-<div align=center><h2>📚 My STACKS</h2></div>
+<div align=center><h1>📚 My STACKS</h1></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
